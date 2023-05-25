@@ -1,4 +1,4 @@
-##2023-05-25
+## 2023-05-25
 - Binmore, Ken,**Game theory: a very short introduction**,2007, [[Paper]]()
  
 - Camerer, Colin F,**Behavioral game theory: Experiments in strategic interaction**,2003, [[Paper]]()
